@@ -1,0 +1,14 @@
+[
+    {
+        "email": "admin@email.com",
+        "id": 1,
+        "name": "qqq",
+        "password": "pbkdf2:sha256:260000$YisAq6U8$6e47bd0032e660c979c61a303083ba76c1da0a8a1135f6a6c718bf49edb9099f"
+    },
+    {
+        "email": "bububan097@gmail.com",
+        "id": 2,
+        "name": "qqq",
+        "password": "pbkdf2:sha256:260000$xy9fzuef$084127ad3137178fe88fcd1cfccbe091fbc2330a93c0921203852d8a42386cde"
+    }
+]
